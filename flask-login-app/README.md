@@ -59,6 +59,13 @@ http://localhost:5000
 
 username: admin
 password: 123
+
+📷 ScreenShots
+
+1. login_page - showing the very first interface
+2. welcome_page - after logging in successfully
+3. wrong_credentials - show after wrong login details
+
 🎯 Purpose of This Project
 This mini-project is part of my journey to master Flask.
 It covers basic authentication concepts and serves as a foundation for more advanced Flask applications ahead.
